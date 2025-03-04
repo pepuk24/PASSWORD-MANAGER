@@ -106,7 +106,7 @@ Değişiklikleri yap ve commit et ✅
 
 PR (Pull Request) aç 🎯
 
-📄 Lisans
+📄 Lisans...
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için LICENSE dosyasına bakabilirsin.
 
