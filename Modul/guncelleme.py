@@ -45,4 +45,4 @@ def guncelle():
 
     print(" Şifreniz başarıyla güncellendi!") 
 
-guncelle()
+
