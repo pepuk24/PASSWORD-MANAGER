@@ -1,0 +1,14 @@
+gmail.com|mehmet123|12345678
+
+hotmail.com|ali_kaya|qwerty12
+
+github.com|coder123|passcode
+
+facebook.com|user99|letmein
+
+twitter.com|john_doe|secure1!
+
+aptik.com|hasanogrenci|mahammad
+
+& C:/Users/aptik24/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/aptik24/Desktop/GTHUB_PYTHONE 98 VEKTOREL/PASSWORD MANAGER/Mainmunu.py"|& C:/Users/aptik24/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/aptik24/Desktop/GTHUB_PYTHONE 98 VEKTOREL/PASSWORD MANAGER/Mainmunu.py"|& C:/Users/aptik24/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/aptik24/Desktop/GTHUB_PYTHONE 98 VEKTOREL/PASSWORD MANAGER/Mainmunu.py"
+
