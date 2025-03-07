@@ -1,4 +1,3 @@
-gmail.com|mehmet123|12345678
 
 hotmail.com|hotmailsifre123|qwerty12
 
@@ -6,4 +5,3 @@ github.com|github12345678|passcode
 
 facebook.com|user99|letmein
 
-twitter.com|john_doe|secure1!
