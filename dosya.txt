@@ -1,6 +1,6 @@
 gmail.com|mehmet123|12345678
 
-hotmail.com|hotmail987654321|qwerty12
+hotmail.com|hotmailsifre123|qwerty12
 
 github.com|github12345678|passcode
 
