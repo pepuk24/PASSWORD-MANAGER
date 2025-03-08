@@ -1,9 +1,9 @@
-🔐 Password Manager - Basit ve Etkili Şifre Yöneticisi
+                     🔐 Password Manager - Basit ve Etkili Şifre Yöneticisi
 
 # 🚀 **Password Manager** Şimdi **.exe** Formatında! 🎉  
-### **Windows** üzerinde **tıklayarak kolayca çalıştırılabilir!** 💻  
----
-> **YENİLİK**: **.exe** formatında **şimdi** çalışan uygulama!  
+
+# İzle: [Password Manager Tanıtım Videosu](https://www.youtube.com/watch?v=cXH5LfjJZbM&ab_channel=pep24)
+
 
 
 Python ile geliştirilmiş, kullanımı son derece basit ve hızlı bir şifre yöneticisi. Bu uygulama, kullanıcıların şifrelerini güvenli bir şekilde saklamasına, güncellemesine, aramasına ve yönetmesine yardımcı olur.
